@@ -8,5 +8,5 @@ Sri.append([l,h])
 for i in Sri:
 	kk=i[0]-1
         ll=i[1]-1
-print(math.gcd(loga[kk],loga[ll]))
+        print(math.gcd(loga[kk],loga[ll]))
 
